@@ -51,7 +51,7 @@ a] Ariel (satellite de Neptune)
 
 # Ajouts de la V3 :
 
-> Amélioration des textures de la Terre et Mercure
+> Amélioration des textures de la Terre et de Mercure
 
 > Ajout de Encelade, Rhéa, Dioné, Téthys et Ariel
 
