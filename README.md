@@ -1,5 +1,5 @@
 # Planetarium V3
-Simulateur en 3D des planètes et divers astres du système solaire
+Simulateur 3D des planètes et diverses lunes système solaire
 
 # Touches
 
